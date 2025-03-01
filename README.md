@@ -1,6 +1,13 @@
 ## Hi there 👋
 
-<!--
+I'm interested in a wide field of studies, from electrical engineering to multilateral negotiations. My current focus areas are computer architecture, 3D reconstruction and negotiation simulation infrastructure.
+
+In my research as a PhD Candidate at the [Norwegian University for Science and Technology (NTNU)](https://www.ntnu.edu/), I'm working on microarchitectural and algorithmic specializations to the processor frontends for cloud computing. Those projects aim to improve the efficiency of cloud computing as a whole and reduce its environmental footprint. This is important as we continue to bring more people online, and cloud services will need to serve ever more people in the future.
+
+While my PhD studies are my primary focus, I'm also highly interested in local and international politics and negotiations. I served on the board of the Institute for Global Negotiations (IGN) and strongly recommend that all engineers get foundational negotiation training. At the very least it will benefit you personally, as you will go through wage negotiations several times during your career, but I think it also serves you well on the job itself, as an engineer often has to communicate with different stakeholders with a varied background. Getting negotiation training at your university or at the summer school (Global Negotiation Conference) from IGN will improve your ability to do so. 
+
+
+<!----
 **jogli5er/jogli5er** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
