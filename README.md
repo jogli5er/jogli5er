@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm interested in a wide field of studies, from electrical engineering to multilateral negotiations. My current focus areas are computer architecture, 3D reconstruction and negotiation simulation infrastructure.
+I'm interested in a wide field of studies, from computer engineering/science to multilateral negotiations. My current focus areas are computer architecture, 3D reconstruction and negotiation simulation infrastructure.
 
 ## Research ##
 In my research as a PhD Candidate at the [Norwegian University for Science and Technology (NTNU)](https://www.ntnu.edu/), I'm working on microarchitectural and algorithmic specializations to the processor frontends for cloud computing. Those projects aim to improve the efficiency of cloud computing as a whole and reduce its environmental footprint. This is important as we continue to bring more people online, and cloud services will need to serve ever more people in the future.
