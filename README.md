@@ -14,10 +14,10 @@ In addition to technical work, I have an interest in negotiation and how it comp
 
 
 ## GitHub's Introduction ##
-- 🔭 I’m currently working on
-      * efficient high-performance core frontends for cloud computation
-      * efficiency-oriented mobile computation (AI on the edge, Cloud in your pocket)
-      * high-precision 3D-Reconstruction
+- 🔭 I’m currently working on:
+  - efficient high-performance core frontends for cloud computation
+  - efficiency-oriented mobile computation (AI on the edge, Cloud in your pocket)
+  - high-precision 3D-Reconstruction
 - 🌱 I’m currently learning to build physical things out of wood and how to run a farm
 - 👯 I’m looking to collaborate on research projects targeting efficient computer (micro-)architectures or low-level systems software
 - 🤔 I’m looking for help with making FireSim and Chipyard easier to use for first-time and experienced users 
