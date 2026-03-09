@@ -22,8 +22,8 @@ In addition to technical work, I have an interest in negotiation and how it comp
 - 👯 I’m looking to collaborate on research projects targeting efficient computer (micro-)architectures or low-level systems software
 - 🤔 I’m looking for help with making FireSim and Chipyard easier to use for first-time and experienced users 
 - 💬 Ask me about anything. You can always ask if you don't fear the answer
-- 📫 How to reach me: 
-- ⚡ Fun fact: 
+- 📫 How to reach me: [<img src="icons/linkedin.svg"  style="height:1.5em;">](https://www.linkedin.com/in/roman-brunner/) [<img src="icons/github.svg" style="height:1.5em;">](https://github.com/jogli5er) [<img src="icons/website.svg" style="height:1.5em;">](https://roman.brunner.best/) [<img src="icons/email.svg" style="height:1.5em;">](mailto:roman.k.brunner@ieee.org)
+- ⚡ Fun fact: I think by now, everyone knows that Platypus are biofluorescent, but did you also know that they have DNA from reptiles, birds, and mammals?
 
 <!----
 **jogli5er/jogli5er** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
